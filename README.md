@@ -189,15 +189,11 @@ jupyter notebook notebooks/EDA.ipynb
 ## 📌 Future Improvements
 
 * Deploy as a **Streamlit web app**
-* Try advanced clustering (DBSCAN, Hierarchical)
-* Add real-time customer prediction
-* Improve feature engineering
-
 ---
 
 ## 👨‍💻 Author
 
-Your Name
+Hindu Menghwar Dileep Kumar
 
 ---
 
