@@ -123,7 +123,7 @@ Based on clustering results, customers can be grouped into segments such as:
   High income and high spending → target with premium products
 
 * 🛍️ **Regular Customers**
-  متوسط spending → maintain engagement with loyalty programs
+  spending → maintain engagement with loyalty program 
 
 * 💸 **Budget Customers**
   Low income, low spending → offer discounts and promotions
